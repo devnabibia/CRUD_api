@@ -60,7 +60,7 @@ To run the project locally, please follow the steps given below.
 
 ## About Author
 
-- Website - [Hillary Wando](http://devnabibia.tech)
-- Twitter - [@hillarywando](https://www.twitter.com/devnabibia)
+- Website - [devnabibia](http://devnabibia.tech)
+- Twitter - [@devnabibia](https://www.twitter.com/devnabibia)
 
 
